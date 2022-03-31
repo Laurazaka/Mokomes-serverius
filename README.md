@@ -17,4 +17,4 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 ## Authors
 
-Laura: [Github](https://github.com/Laurazaka)
+Rimantas: [Github](https://github.com/belauzas)
